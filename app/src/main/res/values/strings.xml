@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Input Variables and Operations</string>
+
+    <string name="app_name_actual">SENSOREM</string>
+
+    <!--    BATTERYD DETAILS -->
+    <string name="Voltage_info">VOLTAGE</string>
+    <string name="Health_info">HEALTH</string>
+    <string name="Temp_info">TEMP</string>
+    <string name="Status_info">STATUS</string>
+
+    <string name="help_info">1.The Device Information Icon can be clicked to view Device Information such as Wifi Connection, Device Battery Status and Device Build,Model and Manufacturer
+
+        \n2. The Sensor List Icon can be clicked to display all sensors available on your device.
+
+
+
+
+    </string>
+
+    <string name="info_icon">DEVICE INFORMATION</string>
+    <string name="sensor_info">SENSOR LIST</string>
+
+    <string name="Select_Sensor">SELECT SENSOR:</string>
+
+
+    <string name="environment_name">ENVIRONMENT SENSORS</string>
+    <string name="position_name">POSITION SENSORS</string>
+    <string name="motion_name">MOTION SENSORS</string>
+
+    <string name="info_title">DEVICE INFORMATION</string>
+    <!--            TEMPERATURE SENSORS-->
+    <string name="display_celcius_value">CELCIUS</string>
+    <string name="display_farenheit_value">FARENHEIT</string>
+    <string name="display_kelvin_value">KELVIN</string>
+
+
+    <string name="start_record"> START </string>
+    <string name="stop_record">STOP</string>
+    <string name="reset_record">RESET</string>
+    <!--        PRESSURE SENSORS-->
+    <string name="display_hectoPascal_value">HECTOPASCALS</string>
+    <string name="display_Bar_value">BAR</string>
+    <string name="display_Atmospheric_Pressure_value">ATMOSPHERIC PRESSURE</string>
+
+    <!--   ACCELEROMETER  -->
+    <string name="convert_to_feet">ft/s^2</string>
+    <string name="convert_to_metre">m/s^2</string>
+
+    <!-- MAGNETIC -->
+    <string name="convert_to_tesla">Tesla</string>
+    <string name="convert_to_microtesla">microTesla</string>
+    <string name="convert_to_Gauss">Gauss</string>
+</resources>
